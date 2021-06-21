@@ -4,7 +4,7 @@ body { margin: 0; }
 
 /* GLOBAL COLORS */
 body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(0, 102, 204, 1); }
+a { color: rgb(0, 128, 255); }
 a:hover { color: hsl(192, 100%, 50%); }
 
 /* GLOBAL TYPOGRAPHY */
